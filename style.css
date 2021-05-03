@@ -1,0 +1,50 @@
+#wrapper {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header{
+	height: 337px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+nav{
+	text-align: center;
+}
+
+nav ul{
+	list-style-type: none;
+}
+
+nav li{
+	display: inline;
+	margin-right: 40px;
+}
+
+a{
+	color: #777;
+	text-decoration: none;
+	font-family: arial, sans-serif;
+}
+
+section{
+	width: 650px;
+	height: 550px;
+	float: left;
+	background: green;
+}
+
+aside{
+	width: 310px;
+	height: 550px;
+	float: right;
+	background: royalblue;
+}
+
+footer{
+	height: 50px;
+	clear: both;
+	background: orange;
+}
